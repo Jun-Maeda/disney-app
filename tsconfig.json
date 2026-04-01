@@ -3,7 +3,7 @@
     "target": "ESNext",
     "useDefineForClassFields": true,
     "module": "ESNext",
-    "moduleResolution": "Node", // もしくは "Bundler"
+    "moduleResolution": "Node",
     "strict": true,
     "jsx": "preserve",
     "resolveJsonModule": true,
@@ -16,8 +16,14 @@
     "paths": {
       "@/*": ["src/*"]
     },
-    "types": ["vuetify", "vite/client"] // ★ここに追加
+    "types": ["vite/client", "vuetify"]
   },
-  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "vite.config.ts"
+  ]
+  // ★重要： "references" の行を完全に削除しました
 }
