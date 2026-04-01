@@ -1,13 +1,14 @@
-import { fileURLToPath, URL } from "node:url";
+// vite.config.js
 import { defineConfig } from "vite";
-import vue from "@vitejs/plugin-vue";
-import vuetify from "vite-plugin-vuetify";
+import vue from "@vue/plugin-vue";
+import path from "path";
 
 export default defineConfig({
-  plugins: [vue(), vuetify({ autoImport: true })],
+  plugins: [vue()],
+  base: "/disney-app/", // ★重要：ここを「GitHubのリポジトリ名」と同じにしてください
   resolve: {
     alias: {
-      "@": fileURLToPath(new URL("./src", import.meta.url)),
+      "@": path.resolve(__dirname, "./src"),
     },
   },
 });
