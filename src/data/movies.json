@@ -1,0 +1,467 @@
+[
+  {
+    "id": 1,
+    "title": "白雪姫",
+    "englishTitle": "Snow White and the Seven Dwarfs",
+    "studio": "Disney",
+    "year": 1937,
+    "description": "毒リンゴの呪いにかかった白雪姫と7人の小人の物語。"
+  },
+  {
+    "id": 2,
+    "title": "ピノキオ",
+    "englishTitle": "Pinocchio",
+    "studio": "Disney",
+    "year": 1940,
+    "description": "人間になりたいと願う木の人形ピノキオの物語。"
+  },
+  {
+    "id": 3,
+    "title": "ファンタジア",
+    "englishTitle": "Fantasia",
+    "studio": "Disney",
+    "year": 1940,
+    "description": "クラシック音楽とアニメーションを融合させた作品。"
+  },
+  {
+    "id": 4,
+    "title": "ダンボ",
+    "englishTitle": "Dumbo",
+    "studio": "Disney",
+    "year": 1941,
+    "description": "大きな耳を持つ子象ダンボの成長の物語。"
+  },
+  {
+    "id": 5,
+    "title": "バンビ",
+    "englishTitle": "Bambi",
+    "studio": "Disney",
+    "year": 1942,
+    "description": "森に生きる鹿バンビの成長を描く物語。"
+  },
+  {
+    "id": 6,
+    "title": "シンデレラ",
+    "englishTitle": "Cinderella",
+    "studio": "Disney",
+    "year": 1950,
+    "description": "魔法によって舞踏会へ行く少女シンデレラの物語。"
+  },
+  {
+    "id": 7,
+    "title": "ふしぎの国のアリス",
+    "englishTitle": "Alice in Wonderland",
+    "studio": "Disney",
+    "year": 1951,
+    "description": "不思議な世界に迷い込んだ少女アリスの冒険。"
+  },
+  {
+    "id": 8,
+    "title": "ピーター・パン",
+    "englishTitle": "Peter Pan",
+    "studio": "Disney",
+    "year": 1953,
+    "description": "永遠に子供のままの少年ピーター・パンの物語。"
+  },
+  {
+    "id": 9,
+    "title": "わんわん物語",
+    "englishTitle": "Lady and the Tramp",
+    "studio": "Disney",
+    "year": 1955,
+    "description": "犬たちの恋と冒険の物語。"
+  },
+  {
+    "id": 10,
+    "title": "眠れる森の美女",
+    "englishTitle": "Sleeping Beauty",
+    "studio": "Disney",
+    "year": 1959,
+    "description": "呪いによって眠り続ける王女の物語。"
+  },
+  {
+    "id": 11,
+    "title": "101匹わんちゃん",
+    "englishTitle": "One Hundred and One Dalmatians",
+    "studio": "Disney",
+    "year": 1961,
+    "description": "ダルメシアンの子犬たちを巡る冒険。"
+  },
+  {
+    "id": 12,
+    "title": "王様の剣",
+    "englishTitle": "The Sword in the Stone",
+    "studio": "Disney",
+    "year": 1963,
+    "description": "少年アーサーが王になるまでの物語。"
+  },
+  {
+    "id": 13,
+    "title": "ジャングル・ブック",
+    "englishTitle": "The Jungle Book",
+    "studio": "Disney",
+    "year": 1967,
+    "description": "少年モーグリと動物たちの冒険。"
+  },
+  {
+    "id": 14,
+    "title": "おしゃれキャット",
+    "englishTitle": "The Aristocats",
+    "studio": "Disney",
+    "year": 1970,
+    "description": "パリを舞台にした猫たちの冒険。"
+  },
+  {
+    "id": 15,
+    "title": "ロビン・フッド",
+    "englishTitle": "Robin Hood",
+    "studio": "Disney",
+    "year": 1973,
+    "description": "動物たちが活躍するロビンフッドの物語。"
+  },
+  {
+    "id": 16,
+    "title": "くまのプーさん",
+    "englishTitle": "The Many Adventures of Winnie the Pooh",
+    "studio": "Disney",
+    "year": 1977,
+    "description": "プーさんと仲間たちの楽しい日常。"
+  },
+  {
+    "id": 17,
+    "title": "リトル・マーメイド",
+    "englishTitle": "The Little Mermaid",
+    "studio": "Disney",
+    "year": 1989,
+    "description": "人間の世界に憧れる人魚姫アリエルの物語。"
+  },
+  {
+    "id": 18,
+    "title": "美女と野獣",
+    "englishTitle": "Beauty and the Beast",
+    "studio": "Disney",
+    "year": 1991,
+    "description": "呪いで野獣になった王子と少女ベルの恋の物語。"
+  },
+  {
+    "id": 19,
+    "title": "アラジン",
+    "englishTitle": "Aladdin",
+    "studio": "Disney",
+    "year": 1992,
+    "description": "魔法のランプを巡る冒険の物語。"
+  },
+  {
+    "id": 20,
+    "title": "ライオンキング",
+    "englishTitle": "The Lion King",
+    "studio": "Disney",
+    "year": 1994,
+    "description": "王になる運命を背負ったライオンの物語。"
+  },
+  {
+    "id": 21,
+    "title": "ポカホンタス",
+    "englishTitle": "Pocahontas",
+    "studio": "Disney",
+    "year": 1995,
+    "description": "自然と共に生きる女性ポカホンタスの物語。"
+  },
+  {
+    "id": 22,
+    "title": "ムーラン",
+    "englishTitle": "Mulan",
+    "studio": "Disney",
+    "year": 1998,
+    "description": "父の代わりに兵士となる女性の物語。"
+  },
+  {
+    "id": 23,
+    "title": "ターザン",
+    "englishTitle": "Tarzan",
+    "studio": "Disney",
+    "year": 1999,
+    "description": "ジャングルで育った青年ターザンの物語。"
+  },
+  {
+    "id": 24,
+    "title": "ラマになった王様",
+    "englishTitle": "The Emperor's New Groove",
+    "studio": "Disney",
+    "year": 2000,
+    "description": "ラマに変えられた王様のコメディ。"
+  },
+  {
+    "id": 25,
+    "title": "リロ＆スティッチ",
+    "englishTitle": "Lilo & Stitch",
+    "studio": "Disney",
+    "year": 2002,
+    "description": "少女リロと宇宙生物スティッチの物語。"
+  },
+  {
+    "id": 26,
+    "title": "トレジャー・プラネット",
+    "englishTitle": "Treasure Planet",
+    "studio": "Disney",
+    "year": 2002,
+    "description": "宇宙を舞台にした宝探しの冒険。"
+  },
+  {
+    "id": 27,
+    "title": "プリンセスと魔法のキス",
+    "englishTitle": "The Princess and the Frog",
+    "studio": "Disney",
+    "year": 2009,
+    "description": "夢を追う少女ティアナの物語。"
+  },
+  {
+    "id": 28,
+    "title": "塔の上のラプンツェル",
+    "englishTitle": "Tangled",
+    "studio": "Disney",
+    "year": 2010,
+    "description": "長い魔法の髪を持つ少女の冒険。"
+  },
+  {
+    "id": 29,
+    "title": "シュガー・ラッシュ",
+    "englishTitle": "Wreck-It Ralph",
+    "studio": "Disney",
+    "year": 2012,
+    "description": "ゲームの世界のキャラクターたちの物語。"
+  },
+  {
+    "id": 30,
+    "title": "アナと雪の女王",
+    "englishTitle": "Frozen",
+    "studio": "Disney",
+    "year": 2013,
+    "description": "氷の魔法を持つ女王エルサと妹アナの物語。"
+  },
+  {
+    "id": 31,
+    "title": "ベイマックス",
+    "englishTitle": "Big Hero 6",
+    "studio": "Disney",
+    "year": 2014,
+    "description": "少年とケアロボットのヒーロー物語。"
+  },
+  {
+    "id": 32,
+    "title": "ズートピア",
+    "englishTitle": "Zootopia",
+    "studio": "Disney",
+    "year": 2016,
+    "description": "動物たちが暮らす都市で起きる事件を描く。"
+  },
+  {
+    "id": 33,
+    "title": "モアナと伝説の海",
+    "englishTitle": "Moana",
+    "studio": "Disney",
+    "year": 2016,
+    "description": "海に選ばれた少女モアナの冒険。"
+  },
+  {
+    "id": 34,
+    "title": "ラーヤと龍の王国",
+    "englishTitle": "Raya and the Last Dragon",
+    "studio": "Disney",
+    "year": 2021,
+    "description": "龍を探す戦士ラーヤの物語。"
+  },
+  {
+    "id": 35,
+    "title": "ミラベルと魔法だらけの家",
+    "englishTitle": "Encanto",
+    "studio": "Disney",
+    "year": 2021,
+    "description": "魔法の家に住む家族の物語。"
+  },
+  {
+    "id": 36,
+    "title": "ストレンジ・ワールド",
+    "englishTitle": "Strange World",
+    "studio": "Disney",
+    "year": 2022,
+    "description": "未知の世界を探検する家族の物語。"
+  },
+  {
+    "id": 37,
+    "title": "ウィッシュ",
+    "englishTitle": "Wish",
+    "studio": "Disney",
+    "year": 2023,
+    "description": "願いが叶う王国を舞台にした物語。"
+  },
+
+  {
+    "id": 101,
+    "title": "トイ・ストーリー",
+    "englishTitle": "Toy Story",
+    "studio": "Pixar",
+    "year": 1995,
+    "description": "おもちゃたちの友情と冒険の物語。"
+  },
+  {
+    "id": 102,
+    "title": "バグズ・ライフ",
+    "englishTitle": "A Bug's Life",
+    "studio": "Pixar",
+    "year": 1998,
+    "description": "アリたちの冒険の物語。"
+  },
+  {
+    "id": 103,
+    "title": "トイ・ストーリー2",
+    "englishTitle": "Toy Story 2",
+    "studio": "Pixar",
+    "year": 1999,
+    "description": "ウッディを救うための冒険。"
+  },
+  {
+    "id": 104,
+    "title": "モンスターズ・インク",
+    "englishTitle": "Monsters Inc.",
+    "studio": "Pixar",
+    "year": 2001,
+    "description": "モンスターの世界の物語。"
+  },
+  {
+    "id": 105,
+    "title": "ファインディング・ニモ",
+    "englishTitle": "Finding Nemo",
+    "studio": "Pixar",
+    "year": 2003,
+    "description": "迷子になった魚ニモを探す父の旅。"
+  },
+  {
+    "id": 106,
+    "title": "Mr.インクレディブル",
+    "englishTitle": "The Incredibles",
+    "studio": "Pixar",
+    "year": 2004,
+    "description": "スーパーヒーロー家族の物語。"
+  },
+  {
+    "id": 107,
+    "title": "カーズ",
+    "englishTitle": "Cars",
+    "studio": "Pixar",
+    "year": 2006,
+    "description": "レーシングカーの成長物語。"
+  },
+  {
+    "id": 108,
+    "title": "レミーのおいしいレストラン",
+    "englishTitle": "Ratatouille",
+    "studio": "Pixar",
+    "year": 2007,
+    "description": "料理人を夢見るネズミの物語。"
+  },
+  {
+    "id": 109,
+    "title": "ウォーリー",
+    "englishTitle": "WALL-E",
+    "studio": "Pixar",
+    "year": 2008,
+    "description": "地球を掃除するロボットの物語。"
+  },
+  {
+    "id": 110,
+    "title": "カールじいさんの空飛ぶ家",
+    "englishTitle": "Up",
+    "studio": "Pixar",
+    "year": 2009,
+    "description": "風船で家を飛ばす冒険の物語。"
+  },
+  {
+    "id": 111,
+    "title": "トイ・ストーリー3",
+    "englishTitle": "Toy Story 3",
+    "studio": "Pixar",
+    "year": 2010,
+    "description": "おもちゃたちの別れの物語。"
+  },
+  {
+    "id": 112,
+    "title": "メリダとおそろしの森",
+    "englishTitle": "Brave",
+    "studio": "Pixar",
+    "year": 2012,
+    "description": "弓の名手メリダの物語。"
+  },
+  {
+    "id": 113,
+    "title": "モンスターズ・ユニバーシティ",
+    "englishTitle": "Monsters University",
+    "studio": "Pixar",
+    "year": 2013,
+    "description": "サリーとマイクの学生時代。"
+  },
+  {
+    "id": 114,
+    "title": "インサイド・ヘッド",
+    "englishTitle": "Inside Out",
+    "studio": "Pixar",
+    "year": 2015,
+    "description": "少女の感情たちの物語。"
+  },
+  {
+    "id": 115,
+    "title": "リメンバー・ミー",
+    "englishTitle": "Coco",
+    "studio": "Pixar",
+    "year": 2017,
+    "description": "音楽と家族をテーマにした物語。"
+  },
+  {
+    "id": 116,
+    "title": "インクレディブル・ファミリー",
+    "englishTitle": "Incredibles 2",
+    "studio": "Pixar",
+    "year": 2018,
+    "description": "ヒーロー家族の続編。"
+  },
+  {
+    "id": 117,
+    "title": "トイ・ストーリー4",
+    "englishTitle": "Toy Story 4",
+    "studio": "Pixar",
+    "year": 2019,
+    "description": "ウッディの新たな旅。"
+  },
+  {
+    "id": 118,
+    "title": "ソウルフル・ワールド",
+    "englishTitle": "Soul",
+    "studio": "Pixar",
+    "year": 2020,
+    "description": "魂の世界を舞台にした物語。"
+  },
+  {
+    "id": 119,
+    "title": "あの夏のルカ",
+    "englishTitle": "Luca",
+    "studio": "Pixar",
+    "year": 2021,
+    "description": "海の怪物の少年の友情物語。"
+  },
+  {
+    "id": 120,
+    "title": "私ときどきレッサーパンダ",
+    "englishTitle": "Turning Red",
+    "studio": "Pixar",
+    "year": 2022,
+    "description": "感情でレッサーパンダになる少女の物語。"
+  },
+  {
+    "id": 121,
+    "title": "マイ・エレメント",
+    "englishTitle": "Elemental",
+    "studio": "Pixar",
+    "year": 2023,
+    "description": "元素の世界の恋物語。"
+  }
+]

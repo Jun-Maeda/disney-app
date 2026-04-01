@@ -1,0 +1,2003 @@
+[
+  {
+    "id": 1,
+    "name": "白雪姫",
+    "englishName": "Snow White",
+    "movieId": 1,
+    "description": "毒リンゴで眠ってしまう王女。",
+    "difficulty": 1,
+    "hint": ["毒リンゴ", "7人の小人", "プリンセス"],
+    "quote": "いつか王子様がきっと"
+  },
+  {
+    "id": 2,
+    "name": "女王",
+    "englishName": "Evil Queen",
+    "movieId": 1,
+    "description": "白雪姫を妬む邪悪な女王。",
+    "difficulty": 2,
+    "hint": ["魔法の鏡", "毒リンゴ", "魔女"],
+    "quote": "鏡よ鏡、この世で一番美しいのは誰？"
+  },
+  {
+    "id": 3,
+    "name": "ピノキオ",
+    "englishName": "Pinocchio",
+    "movieId": 2,
+    "description": "人間になりたいと願う木の人形。",
+    "difficulty": 1,
+    "hint": ["木の人形", "鼻", "嘘"],
+    "quote": "本物の男の子になりたい"
+  },
+  {
+    "id": 4,
+    "name": "ゼペット",
+    "englishName": "Geppetto",
+    "movieId": 2,
+    "description": "ピノキオを作った優しい老人。",
+    "difficulty": 3,
+    "hint": ["老人", "人形", "父"],
+    "quote": "ピノキオ、帰っておいで"
+  },
+  {
+    "id": 5,
+    "name": "ダンボ",
+    "englishName": "Dumbo",
+    "movieId": 4,
+    "description": "大きな耳で空を飛ぶ象。",
+    "difficulty": 1,
+    "hint": ["象", "大きな耳", "空"],
+    "quote": "僕にも飛べるんだ"
+  },
+  {
+    "id": 6,
+    "name": "ティモシー",
+    "englishName": "Timothy Mouse",
+    "movieId": 4,
+    "description": "ダンボを助けるネズミ。",
+    "difficulty": 3,
+    "hint": ["ネズミ", "サーカス", "親友"],
+    "quote": "君ならできる"
+  },
+  {
+    "id": 7,
+    "name": "バンビ",
+    "englishName": "Bambi",
+    "movieId": 5,
+    "description": "森で育つ鹿の王子。",
+    "difficulty": 1,
+    "hint": ["鹿", "森", "成長"],
+    "quote": "僕は大丈夫"
+  },
+  {
+    "id": 8,
+    "name": "とんすけ",
+    "englishName": "Thumper",
+    "movieId": 5,
+    "description": "バンビの友達のウサギ。",
+    "difficulty": 3,
+    "hint": ["ウサギ", "森", "友達"],
+    "quote": "足をドンドン"
+  },
+  {
+    "id": 9,
+    "name": "シンデレラ",
+    "englishName": "Cinderella",
+    "movieId": 6,
+    "description": "ガラスの靴のプリンセス。",
+    "difficulty": 1,
+    "hint": ["ガラスの靴", "舞踏会", "魔法"],
+    "quote": "夢はきっと叶う"
+  },
+  {
+    "id": 10,
+    "name": "フェアリー・ゴッドマザー",
+    "englishName": "Fairy Godmother",
+    "movieId": 6,
+    "description": "シンデレラを助ける妖精。",
+    "difficulty": 2,
+    "hint": ["妖精", "魔法", "かぼちゃ"],
+    "quote": "ビビディ・バビディ・ブー"
+  },
+  {
+    "id": 11,
+    "name": "アリス",
+    "englishName": "Alice",
+    "movieId": 7,
+    "description": "不思議の国に迷い込んだ少女。",
+    "difficulty": 1,
+    "hint": ["白うさぎ", "お茶会", "不思議"],
+    "quote": "ここはどこ？"
+  },
+  {
+    "id": 12,
+    "name": "白うさぎ",
+    "englishName": "White Rabbit",
+    "movieId": 7,
+    "description": "時計を持ったウサギ。",
+    "difficulty": 2,
+    "hint": ["時計", "急ぐ", "穴"],
+    "quote": "遅刻だ！"
+  },
+  {
+    "id": 13,
+    "name": "ピーター・パン",
+    "englishName": "Peter Pan",
+    "movieId": 8,
+    "description": "ネバーランドの少年。",
+    "difficulty": 1,
+    "hint": ["空を飛ぶ", "ネバーランド", "少年"],
+    "quote": "ネバーランドへ行こう"
+  },
+  {
+    "id": 14,
+    "name": "ティンカー・ベル",
+    "englishName": "Tinker Bell",
+    "movieId": 8,
+    "description": "小さな妖精。",
+    "difficulty": 1,
+    "hint": ["妖精", "羽", "光"],
+    "quote": "信じて"
+  },
+  {
+    "id": 15,
+    "name": "ウェンディ",
+    "englishName": "Wendy",
+    "movieId": 8,
+    "description": "ピーターと冒険する少女。",
+    "difficulty": 1,
+    "hint": ["少女", "ネバーランド", "兄弟"],
+    "quote": "お話してあげる"
+  },
+  {
+    "id": 16,
+    "name": "レディ",
+    "englishName": "Lady",
+    "movieId": 9,
+    "description": "上品な犬。",
+    "difficulty": 3,
+    "hint": ["犬", "スパゲッティ", "恋"],
+    "quote": "素敵な夜"
+  },
+  {
+    "id": 17,
+    "name": "トランプ",
+    "englishName": "Tramp",
+    "movieId": 9,
+    "description": "自由な野良犬。",
+    "difficulty": 3,
+    "hint": ["犬", "自由", "恋"],
+    "quote": "気楽にいこう"
+  },
+  {
+    "id": 18,
+    "name": "オーロラ姫",
+    "englishName": "Aurora",
+    "movieId": 10,
+    "description": "眠りの呪いの王女。",
+    "difficulty": 1,
+    "hint": ["眠り", "森", "王女"],
+    "quote": "夢を見ていたの"
+  },
+  {
+    "id": 19,
+    "name": "マレフィセント",
+    "englishName": "Maleficent",
+    "movieId": 10,
+    "description": "強力な魔女。",
+    "difficulty": 1,
+    "hint": ["ドラゴン", "呪い", "角"],
+    "quote": "この子は眠る"
+  },
+  {
+    "id": 20,
+    "name": "ポンゴ",
+    "englishName": "Pongo",
+    "movieId": 11,
+    "description": "ダルメシアンの父犬。",
+    "difficulty": 3,
+    "hint": ["犬", "101匹", "父"],
+    "quote": "子犬を助けよう"
+  },
+  {
+    "id": 21,
+    "name": "パーディタ",
+    "englishName": "Perdita",
+    "movieId": 11,
+    "description": "ダルメシアンの母犬。",
+    "difficulty": 3,
+    "hint": ["犬", "母", "子犬"],
+    "quote": "みんな無事"
+  },
+  {
+    "id": 22,
+    "name": "クルエラ",
+    "englishName": "Cruella de Vil",
+    "movieId": 11,
+    "description": "毛皮を狙う悪役。",
+    "difficulty": 2,
+    "hint": ["白黒髪", "毛皮", "悪役"],
+    "quote": "ダルメシアンが欲しい"
+  },
+  {
+    "id": 23,
+    "name": "モーグリ",
+    "englishName": "Mowgli",
+    "movieId": 13,
+    "description": "ジャングルで育つ少年。",
+    "difficulty": 4,
+    "hint": ["ジャングル", "オオカミ", "少年"],
+    "quote": "僕はここにいる"
+  },
+  {
+    "id": 24,
+    "name": "バルー",
+    "englishName": "Baloo",
+    "movieId": 13,
+    "description": "陽気なクマ。",
+    "difficulty": 4,
+    "hint": ["クマ", "ジャングル", "友達"],
+    "quote": "気楽にいこう"
+  },
+  {
+    "id": 25,
+    "name": "シア・カーン",
+    "englishName": "Shere Khan",
+    "movieId": 13,
+    "description": "恐ろしいトラ。",
+    "difficulty": 4,
+    "hint": ["トラ", "悪役", "ジャングル"],
+    "quote": "人間の子"
+  },
+  {
+    "id": 26,
+    "name": "プー",
+    "englishName": "Winnie the Pooh",
+    "movieId": 16,
+    "description": "ハチミツが好きなクマ。",
+    "difficulty": 1,
+    "hint": ["ハチミツ", "クマ", "森"],
+    "quote": "はちみつだ"
+  },
+  {
+    "id": 27,
+    "name": "ピグレット",
+    "englishName": "Piglet",
+    "movieId": 16,
+    "description": "小さなブタ。",
+    "difficulty": 2,
+    "hint": ["ブタ", "友達", "森"],
+    "quote": "ぼく怖いよ"
+  },
+  {
+    "id": 28,
+    "name": "ティガー",
+    "englishName": "Tigger",
+    "movieId": 16,
+    "description": "元気なトラ。",
+    "difficulty": 2,
+    "hint": ["トラ", "ジャンプ", "元気"],
+    "quote": "ぼくはティガー"
+  },
+  {
+    "id": 29,
+    "name": "アリエル",
+    "englishName": "Ariel",
+    "movieId": 17,
+    "description": "人魚姫。",
+    "difficulty": 1,
+    "hint": ["人魚", "海", "王子"],
+    "quote": "人間になりたい"
+  },
+  {
+    "id": 30,
+    "name": "エリック王子",
+    "englishName": "Prince Eric",
+    "movieId": 17,
+    "description": "アリエルの恋人。",
+    "difficulty": 2,
+    "hint": ["王子", "船", "海"],
+    "quote": "君を助ける"
+  },
+  {
+    "id": 31,
+    "name": "セバスチャン",
+    "englishName": "Sebastian",
+    "movieId": 17,
+    "description": "宮廷音楽家のカニ。",
+    "difficulty": 2,
+    "hint": ["カニ", "音楽", "海"],
+    "quote": "海の下"
+  },
+  {
+    "id": 32,
+    "name": "フランダー",
+    "englishName": "Flounder",
+    "movieId": 17,
+    "description": "アリエルの友達の魚。",
+    "difficulty": 2,
+    "hint": ["魚", "友達", "海"],
+    "quote": "怖いよ"
+  },
+  {
+    "id": 33,
+    "name": "アースラ",
+    "englishName": "Ursula",
+    "movieId": 17,
+    "description": "海の魔女。",
+    "difficulty": 1,
+    "hint": ["魔女", "海", "契約"],
+    "quote": "契約しましょう"
+  },
+  {
+    "id": 34,
+    "name": "ベル",
+    "englishName": "Belle",
+    "movieId": 18,
+    "description": "本が好きな女性。",
+    "difficulty": 1,
+    "hint": ["本", "ドレス", "城"],
+    "quote": "もっと広い世界を見たい"
+  },
+  {
+    "id": 35,
+    "name": "野獣",
+    "englishName": "Beast",
+    "movieId": 18,
+    "description": "呪いの王子。",
+    "difficulty": 1,
+    "hint": ["城", "呪い", "王子"],
+    "quote": "君が必要だ"
+  },
+  {
+    "id": 36,
+    "name": "ルミエール",
+    "englishName": "Lumiere",
+    "movieId": 18,
+    "description": "燭台の執事。",
+    "difficulty": 2,
+    "hint": ["燭台", "執事", "城"],
+    "quote": "ようこそ"
+  },
+  {
+    "id": 37,
+    "name": "コグスワース",
+    "englishName": "Cogsworth",
+    "movieId": 18,
+    "description": "時計の執事。",
+    "difficulty": 3,
+    "hint": ["時計", "執事", "城"],
+    "quote": "時間です"
+  },
+  {
+    "id": 38,
+    "name": "ガストン",
+    "englishName": "Gaston",
+    "movieId": 18,
+    "description": "自信家の男。",
+    "difficulty": 2,
+    "hint": ["狩人", "筋肉", "悪役"],
+    "quote": "俺ほどの男はいない"
+  },
+  {
+    "id": 39,
+    "name": "アラジン",
+    "englishName": "Aladdin",
+    "movieId": 19,
+    "description": "ランプを見つける青年。",
+    "difficulty": 1,
+    "hint": ["ランプ", "砂漠", "盗賊"],
+    "quote": "信じて"
+  },
+  {
+    "id": 40,
+    "name": "ジャスミン",
+    "englishName": "Jasmine",
+    "movieId": 19,
+    "description": "王女。",
+    "difficulty": 1,
+    "hint": ["王女", "虎", "宮殿"],
+    "quote": "私は賞品じゃない"
+  },
+  {
+    "id": 41,
+    "name": "ジーニー",
+    "englishName": "Genie",
+    "movieId": 19,
+    "description": "ランプの魔人。",
+    "difficulty": 1,
+    "hint": ["魔人", "青", "願い"],
+    "quote": "願いを叶えよう"
+  },
+  {
+    "id": 42,
+    "name": "ジャファー",
+    "englishName": "Jafar",
+    "movieId": 19,
+    "description": "邪悪な魔法使い。",
+    "difficulty": 1,
+    "hint": ["蛇", "魔法", "悪役"],
+    "quote": "私は支配者だ"
+  },
+  {
+    "id": 43,
+    "name": "シンバ",
+    "englishName": "Simba",
+    "movieId": 20,
+    "description": "ライオンの王。",
+    "difficulty": 1,
+    "hint": ["ライオン", "王国", "サバンナ"],
+    "quote": "僕は王になる"
+  },
+  {
+    "id": 44,
+    "name": "ナラ",
+    "englishName": "Nala",
+    "movieId": 20,
+    "description": "シンバの幼なじみ。",
+    "difficulty": 3,
+    "hint": ["ライオン", "友達", "王国"],
+    "quote": "帰ってきて"
+  },
+  {
+    "id": 45,
+    "name": "ムファサ",
+    "englishName": "Mufasa",
+    "movieId": 20,
+    "description": "シンバの父。",
+    "difficulty": 2,
+    "hint": ["ライオン", "王", "父"],
+    "quote": "思い出せ"
+  },
+  {
+    "id": 46,
+    "name": "スカー",
+    "englishName": "Scar",
+    "movieId": 20,
+    "description": "シンバの叔父。",
+    "difficulty": 2,
+    "hint": ["ライオン", "裏切り", "悪役"],
+    "quote": "王様万歳"
+  },
+  {
+    "id": 47,
+    "name": "ティモン",
+    "englishName": "Timon",
+    "movieId": 20,
+    "description": "ミーアキャット。",
+    "difficulty": 2,
+    "hint": ["ミーアキャット", "親友", "砂漠"],
+    "quote": "ハクナマタタ"
+  },
+  {
+    "id": 48,
+    "name": "プンバァ",
+    "englishName": "Pumbaa",
+    "movieId": 20,
+    "description": "イボイノシシ。",
+    "difficulty": 2,
+    "hint": ["イボイノシシ", "親友", "砂漠"],
+    "quote": "気にするな"
+  },
+  {
+    "id": 49,
+    "name": "ポカホンタス",
+    "englishName": "Pocahontas",
+    "movieId": 21,
+    "description": "自然を愛する女性。",
+    "difficulty": 1,
+    "hint": ["自然", "川", "風"],
+    "quote": "風の色を知ってる？"
+  },
+  {
+    "id": 50,
+    "name": "ジョン・スミス",
+    "englishName": "John Smith",
+    "movieId": 21,
+    "description": "イギリスの探検家。",
+    "difficulty": 4,
+    "hint": ["探検家", "船", "恋"],
+    "quote": "君を守る"
+  },
+  {
+    "id": 51,
+    "name": "ムーラン",
+    "englishName": "Mulan",
+    "movieId": 22,
+    "description": "父の代わりに兵士として戦う女性。",
+    "difficulty": 1,
+    "hint": ["中国", "兵士", "家族"],
+    "quote": "私は家族のために戦う"
+  },
+  {
+    "id": 52,
+    "name": "ムーシュー",
+    "englishName": "Mushu",
+    "movieId": 22,
+    "description": "ムーランを助ける小さなドラゴン。",
+    "difficulty": 3,
+    "hint": ["ドラゴン", "守護", "ムーラン"],
+    "quote": "俺がついてるぞ"
+  },
+  {
+    "id": 53,
+    "name": "シャン隊長",
+    "englishName": "Li Shang",
+    "movieId": 22,
+    "description": "ムーランの上官。",
+    "difficulty": 4,
+    "hint": ["隊長", "兵士", "訓練"],
+    "quote": "強くなれ"
+  },
+  {
+    "id": 54,
+    "name": "ターザン",
+    "englishName": "Tarzan",
+    "movieId": 23,
+    "description": "ジャングルで育った青年。",
+    "difficulty": 2,
+    "hint": ["ジャングル", "ツタ", "ゴリラ"],
+    "quote": "僕はここで育った"
+  },
+  {
+    "id": 55,
+    "name": "ジェーン",
+    "englishName": "Jane Porter",
+    "movieId": 23,
+    "description": "ターザンと出会う女性。",
+    "difficulty": 3,
+    "hint": ["探検", "父", "ターザン"],
+    "quote": "あなたって不思議ね"
+  },
+  {
+    "id": 56,
+    "name": "カーラ",
+    "englishName": "Kala",
+    "movieId": 23,
+    "description": "ターザンを育てたゴリラ。",
+    "difficulty": 3,
+    "hint": ["ゴリラ", "母", "ジャングル"],
+    "quote": "あなたは私の子よ"
+  },
+  {
+    "id": 57,
+    "name": "クスコ",
+    "englishName": "Kuzco",
+    "movieId": 24,
+    "description": "ラマに変えられた王様。",
+    "difficulty": 3,
+    "hint": ["ラマ", "王様", "コメディ"],
+    "quote": "俺は王様だ"
+  },
+  {
+    "id": 58,
+    "name": "パチャ",
+    "englishName": "Pacha",
+    "movieId": 24,
+    "description": "クスコを助ける村人。",
+    "difficulty": 3,
+    "hint": ["村人", "家族", "ラマ"],
+    "quote": "落ち着け"
+  },
+  {
+    "id": 59,
+    "name": "リロ",
+    "englishName": "Lilo",
+    "movieId": 25,
+    "description": "ハワイの少女。",
+    "difficulty": 1,
+    "hint": ["ハワイ", "少女", "スティッチ"],
+    "quote": "オハナは家族"
+  },
+  {
+    "id": 60,
+    "name": "スティッチ",
+    "englishName": "Stitch",
+    "movieId": 25,
+    "description": "宇宙から来たエイリアン。",
+    "difficulty": 1,
+    "hint": ["青い", "エイリアン", "ハワイ"],
+    "quote": "オハナ"
+  },
+  {
+    "id": 61,
+    "name": "ナニ",
+    "englishName": "Nani",
+    "movieId": 25,
+    "description": "リロの姉。",
+    "difficulty": 3,
+    "hint": ["姉", "家族", "ハワイ"],
+    "quote": "私はあなたの姉よ"
+  },
+  {
+    "id": 62,
+    "name": "ジム",
+    "englishName": "Jim Hawkins",
+    "movieId": 26,
+    "description": "宇宙の宝を探す少年。",
+    "difficulty": 3,
+    "hint": ["宇宙", "宝", "海賊"],
+    "quote": "僕は行く"
+  },
+  {
+    "id": 63,
+    "name": "ジョン・シルバー",
+    "englishName": "John Silver",
+    "movieId": 26,
+    "description": "義足の海賊。",
+    "difficulty": 4,
+    "hint": ["海賊", "義足", "宇宙"],
+    "quote": "坊主"
+  },
+  {
+    "id": 64,
+    "name": "ティアナ",
+    "englishName": "Tiana",
+    "movieId": 27,
+    "description": "レストランを夢見る女性。",
+    "difficulty": 2,
+    "hint": ["カエル", "レストラン", "夢"],
+    "quote": "夢は努力で叶う"
+  },
+  {
+    "id": 65,
+    "name": "ナヴィーン王子",
+    "englishName": "Prince Naveen",
+    "movieId": 27,
+    "description": "カエルにされた王子。",
+    "difficulty": 3,
+    "hint": ["王子", "カエル", "音楽"],
+    "quote": "助けてくれ"
+  },
+  {
+    "id": 66,
+    "name": "ラプンツェル",
+    "englishName": "Rapunzel",
+    "movieId": 28,
+    "description": "長い髪の少女。",
+    "difficulty": 1,
+    "hint": ["長い髪", "塔", "フライパン"],
+    "quote": "今日は最高の日"
+  },
+  {
+    "id": 67,
+    "name": "フリン・ライダー",
+    "englishName": "Flynn Rider",
+    "movieId": 28,
+    "description": "泥棒の青年。",
+    "difficulty": 2,
+    "hint": ["泥棒", "相棒", "ラプンツェル"],
+    "quote": "本名は違う"
+  },
+  {
+    "id": 68,
+    "name": "ゴーテル",
+    "englishName": "Mother Gothel",
+    "movieId": 28,
+    "description": "ラプンツェルを育てた女性。",
+    "difficulty": 2,
+    "hint": ["塔", "魔法", "悪役"],
+    "quote": "ママに任せなさい"
+  },
+  {
+    "id": 69,
+    "name": "ラルフ",
+    "englishName": "Ralph",
+    "movieId": 29,
+    "description": "ゲームの悪役キャラ。",
+    "difficulty": 2,
+    "hint": ["ゲーム", "壊す", "ヒーロー"],
+    "quote": "僕もヒーローだ"
+  },
+  {
+    "id": 70,
+    "name": "ヴァネロペ",
+    "englishName": "Vanellope",
+    "movieId": 29,
+    "description": "レースゲームの少女。",
+    "difficulty": 2,
+    "hint": ["ゲーム", "レース", "バグ"],
+    "quote": "私はプリンセス"
+  },
+  {
+    "id": 71,
+    "name": "エルサ",
+    "englishName": "Elsa",
+    "movieId": 30,
+    "description": "氷の魔法を持つ女王。",
+    "difficulty": 1,
+    "hint": ["氷", "雪", "女王"],
+    "quote": "ありのままで"
+  },
+  {
+    "id": 72,
+    "name": "アナ",
+    "englishName": "Anna",
+    "movieId": 30,
+    "description": "エルサの妹。",
+    "difficulty": 1,
+    "hint": ["妹", "雪", "冒険"],
+    "quote": "雪だるまつくろう"
+  },
+  {
+    "id": 73,
+    "name": "オラフ",
+    "englishName": "Olaf",
+    "movieId": 30,
+    "description": "雪だるま。",
+    "difficulty": 1,
+    "hint": ["雪だるま", "夏", "ニンジン鼻"],
+    "quote": "ぎゅーってして"
+  },
+  {
+    "id": 74,
+    "name": "クリストフ",
+    "englishName": "Kristoff",
+    "movieId": 30,
+    "description": "氷売りの青年。",
+    "difficulty": 2,
+    "hint": ["氷", "トナカイ", "山"],
+    "quote": "任せろ"
+  },
+  {
+    "id": 75,
+    "name": "ヒロ",
+    "englishName": "Hiro",
+    "movieId": 31,
+    "description": "天才少年。",
+    "difficulty": 2,
+    "hint": ["発明", "ロボット", "兄"],
+    "quote": "僕が作った"
+  },
+  {
+    "id": 76,
+    "name": "ベイマックス",
+    "englishName": "Baymax",
+    "movieId": 31,
+    "description": "ケアロボット。",
+    "difficulty": 1,
+    "hint": ["白いロボット", "医療", "優しい"],
+    "quote": "健康状態を測定します"
+  },
+  {
+    "id": 77,
+    "name": "ジュディ",
+    "englishName": "Judy Hopps",
+    "movieId": 32,
+    "description": "警察官のウサギ。",
+    "difficulty": 1,
+    "hint": ["ウサギ", "警察", "ズートピア"],
+    "quote": "夢は叶う"
+  },
+  {
+    "id": 78,
+    "name": "ニック",
+    "englishName": "Nick Wilde",
+    "movieId": 32,
+    "description": "キツネの詐欺師。",
+    "difficulty": 2,
+    "hint": ["キツネ", "詐欺師", "相棒"],
+    "quote": "人生そんなもん"
+  },
+  {
+    "id": 79,
+    "name": "モアナ",
+    "englishName": "Moana",
+    "movieId": 33,
+    "description": "海に選ばれた少女。",
+    "difficulty": 1,
+    "hint": ["海", "航海", "島"],
+    "quote": "私はモアナ"
+  },
+  {
+    "id": 80,
+    "name": "マウイ",
+    "englishName": "Maui",
+    "movieId": 33,
+    "description": "半神の英雄。",
+    "difficulty": 2,
+    "hint": ["半神", "フック", "海"],
+    "quote": "どういたしまして"
+  },
+  {
+    "id": 81,
+    "name": "ラーヤ",
+    "englishName": "Raya",
+    "movieId": 34,
+    "description": "龍を探す戦士。",
+    "difficulty": 2,
+    "hint": ["龍", "戦士", "剣"],
+    "quote": "信じるのよ"
+  },
+  {
+    "id": 82,
+    "name": "シスー",
+    "englishName": "Sisu",
+    "movieId": 34,
+    "description": "最後の龍。",
+    "difficulty": 3,
+    "hint": ["龍", "水", "仲間"],
+    "quote": "信じて"
+  },
+  {
+    "id": 83,
+    "name": "ミラベル",
+    "englishName": "Mirabel",
+    "movieId": 35,
+    "description": "魔法を持たない少女。",
+    "difficulty": 1,
+    "hint": ["家族", "魔法", "家"],
+    "quote": "私は特別じゃない"
+  },
+  {
+    "id": 84,
+    "name": "イサベラ",
+    "englishName": "Isabela",
+    "movieId": 35,
+    "description": "花の魔法を持つ姉。",
+    "difficulty": 3,
+    "hint": ["花", "姉", "魔法"],
+    "quote": "自由になりたい"
+  },
+  {
+    "id": 85,
+    "name": "サーチャー",
+    "englishName": "Searcher Clade",
+    "movieId": 36,
+    "description": "探検家の父。",
+    "difficulty": 4,
+    "hint": ["探検", "父", "家族"],
+    "quote": "進もう"
+  },
+  {
+    "id": 86,
+    "name": "イーサン",
+    "englishName": "Ethan Clade",
+    "movieId": 36,
+    "description": "探検家の息子。",
+    "difficulty": 4,
+    "hint": ["息子", "探検", "家族"],
+    "quote": "僕がやる"
+  },
+  {
+    "id": 87,
+    "name": "アーシャ",
+    "englishName": "Asha",
+    "movieId": 37,
+    "description": "願いを守る少女。",
+    "difficulty": 3,
+    "hint": ["星", "願い", "王国"],
+    "quote": "願いは叶う"
+  },
+  {
+    "id": 88,
+    "name": "マグニフィコ王",
+    "englishName": "King Magnifico",
+    "movieId": 37,
+    "description": "願いを支配する王。",
+    "difficulty": 3,
+    "hint": ["王", "願い", "魔法"],
+    "quote": "願いは私のもの"
+  },
+  {
+    "id": 89,
+    "name": "ウッディ",
+    "englishName": "Woody",
+    "movieId": 101,
+    "description": "カウボーイのおもちゃ。",
+    "difficulty": 1,
+    "hint": ["カウボーイ", "おもちゃ", "アンディ"],
+    "quote": "そこまでだ保安官"
+  },
+  {
+    "id": 90,
+    "name": "バズ・ライトイヤー",
+    "englishName": "Buzz Lightyear",
+    "movieId": 101,
+    "description": "スペースレンジャーのおもちゃ。",
+    "difficulty": 1,
+    "hint": ["宇宙", "レーザー", "翼"],
+    "quote": "無限の彼方へ"
+  },
+  {
+    "id": 91,
+    "name": "ジェシー",
+    "englishName": "Jessie",
+    "movieId": 103,
+    "description": "カウガールのおもちゃ。",
+    "difficulty": 1,
+    "hint": ["カウガール", "帽子", "ロープ"],
+    "quote": "やったー"
+  },
+  {
+    "id": 92,
+    "name": "マイク",
+    "englishName": "Mike Wazowski",
+    "movieId": 104,
+    "description": "一つ目のモンスター。",
+    "difficulty": 1,
+    "hint": ["一つ目", "緑", "サリー"],
+    "quote": "見てるぞ"
+  },
+  {
+    "id": 93,
+    "name": "サリー",
+    "englishName": "Sulley",
+    "movieId": 104,
+    "description": "青いモンスター。",
+    "difficulty": 1,
+    "hint": ["青い", "モンスター", "ブー"],
+    "quote": "大丈夫だ"
+  },
+  {
+    "id": 94,
+    "name": "ブー",
+    "englishName": "Boo",
+    "movieId": 104,
+    "description": "モンスターの世界に迷い込んだ少女。",
+    "difficulty": 2,
+    "hint": ["少女", "ドア", "サリー"],
+    "quote": "キティ"
+  },
+  {
+    "id": 95,
+    "name": "ニモ",
+    "englishName": "Nemo",
+    "movieId": 105,
+    "description": "迷子の魚。",
+    "difficulty": 1,
+    "hint": ["魚", "海", "父"],
+    "quote": "僕できる"
+  },
+  {
+    "id": 96,
+    "name": "マーリン",
+    "englishName": "Marlin",
+    "movieId": 105,
+    "description": "ニモの父。",
+    "difficulty": 3,
+    "hint": ["父", "魚", "海"],
+    "quote": "ニモ"
+  },
+  {
+    "id": 97,
+    "name": "ドリー",
+    "englishName": "Dory",
+    "movieId": 105,
+    "description": "忘れっぽい魚。",
+    "difficulty": 2,
+    "hint": ["青", "忘れる", "魚"],
+    "quote": "泳ぎ続けて"
+  },
+  {
+    "id": 98,
+    "name": "ライトニング・マックィーン",
+    "englishName": "Lightning McQueen",
+    "movieId": 107,
+    "description": "レーシングカー。",
+    "difficulty": 1,
+    "hint": ["赤", "95", "レース"],
+    "quote": "カチャウ"
+  },
+  {
+    "id": 99,
+    "name": "メーター",
+    "englishName": "Mater",
+    "movieId": 107,
+    "description": "レッカー車。",
+    "difficulty": 3,
+    "hint": ["レッカー車", "親友", "田舎"],
+    "quote": "相棒"
+  },
+  {
+    "id": 100,
+    "name": "レミー",
+    "englishName": "Remy",
+    "movieId": 108,
+    "description": "料理人を夢見るネズミ。",
+    "difficulty": 2,
+    "hint": ["ネズミ", "料理", "パリ"],
+    "quote": "誰でも料理できる"
+  },
+
+  {
+    "id": 101,
+    "name": "リンガーニ",
+    "englishName": "Linguini",
+    "movieId": 108,
+    "description": "レミーとコンビを組む青年シェフ。",
+    "difficulty": 3,
+    "hint": ["料理", "レストラン", "ネズミ"],
+    "quote": "料理ができるんだ"
+  },
+  {
+    "id": 102,
+    "name": "ウォーリー",
+    "englishName": "WALL-E",
+    "movieId": 109,
+    "description": "地球を掃除するロボット。",
+    "difficulty": 1,
+    "hint": ["ロボット", "ゴミ", "地球"],
+    "quote": "ウォーリー"
+  },
+  {
+    "id": 103,
+    "name": "イヴ",
+    "englishName": "EVE",
+    "movieId": 109,
+    "description": "地球を調査するロボット。",
+    "difficulty": 2,
+    "hint": ["白いロボット", "宇宙", "植物"],
+    "quote": "ウォーリー"
+  },
+  {
+    "id": 104,
+    "name": "カール",
+    "englishName": "Carl Fredricksen",
+    "movieId": 110,
+    "description": "風船で家を飛ばす老人。",
+    "difficulty": 1,
+    "hint": ["風船", "家", "老人"],
+    "quote": "冒険だ"
+  },
+  {
+    "id": 105,
+    "name": "ラッセル",
+    "englishName": "Russell",
+    "movieId": 110,
+    "description": "カールと旅をする少年。",
+    "difficulty": 3,
+    "hint": ["少年", "バッジ", "冒険"],
+    "quote": "こんにちは"
+  },
+  {
+    "id": 106,
+    "name": "ダグ",
+    "englishName": "Dug",
+    "movieId": 110,
+    "description": "話す犬。",
+    "difficulty": 3,
+    "hint": ["犬", "首輪", "リス"],
+    "quote": "リス"
+  },
+  {
+    "id": 107,
+    "name": "ロッツォ",
+    "englishName": "Lotso",
+    "movieId": 111,
+    "description": "ピンクのクマのおもちゃ。",
+    "difficulty": 2,
+    "hint": ["クマ", "ピンク", "悪役"],
+    "quote": "ここは俺の場所"
+  },
+  {
+    "id": 108,
+    "name": "メリダ",
+    "englishName": "Merida",
+    "movieId": 112,
+    "description": "弓の名手の王女。",
+    "difficulty": 2,
+    "hint": ["弓", "王女", "スコットランド"],
+    "quote": "私は運命を変える"
+  },
+  {
+    "id": 109,
+    "name": "マイクの母",
+    "englishName": "Mrs Wazowski",
+    "movieId": 113,
+    "description": "マイクの母親。",
+    "difficulty": 4,
+    "hint": ["母", "モンスター", "大学"],
+    "quote": "頑張りなさい"
+  },
+  {
+    "id": 110,
+    "name": "ヨロコビ",
+    "englishName": "Joy",
+    "movieId": 114,
+    "description": "感情の一人。",
+    "difficulty": 1,
+    "hint": ["感情", "黄色", "喜び"],
+    "quote": "大丈夫"
+  },
+  {
+    "id": 111,
+    "name": "カナシミ",
+    "englishName": "Sadness",
+    "movieId": 114,
+    "description": "悲しみの感情。",
+    "difficulty": 1,
+    "hint": ["感情", "青", "涙"],
+    "quote": "ごめんね"
+  },
+  {
+    "id": 112,
+    "name": "イカリ",
+    "englishName": "Anger",
+    "movieId": 114,
+    "description": "怒りの感情。",
+    "difficulty": 2,
+    "hint": ["怒り", "赤", "炎"],
+    "quote": "ふざけるな"
+  },
+  {
+    "id": 113,
+    "name": "ビビリ",
+    "englishName": "Fear",
+    "movieId": 114,
+    "description": "恐怖の感情。",
+    "difficulty": 2,
+    "hint": ["紫", "恐怖", "感情"],
+    "quote": "怖い"
+  },
+  {
+    "id": 114,
+    "name": "ムカムカ",
+    "englishName": "Disgust",
+    "movieId": 114,
+    "description": "嫌悪の感情。",
+    "difficulty": 2,
+    "hint": ["緑", "嫌悪", "感情"],
+    "quote": "最悪"
+  },
+  {
+    "id": 115,
+    "name": "ミゲル",
+    "englishName": "Miguel",
+    "movieId": 115,
+    "description": "音楽が大好きな少年。",
+    "difficulty": 1,
+    "hint": ["ギター", "家族", "死者の国"],
+    "quote": "音楽が好き"
+  },
+  {
+    "id": 116,
+    "name": "ヘクター",
+    "englishName": "Hector",
+    "movieId": 115,
+    "description": "ミゲルを助ける骸骨。",
+    "difficulty": 3,
+    "hint": ["骸骨", "ギター", "家族"],
+    "quote": "忘れないで"
+  },
+  {
+    "id": 117,
+    "name": "イラスティガール",
+    "englishName": "Elastigirl",
+    "movieId": 116,
+    "description": "伸びる能力のヒーロー。",
+    "difficulty": 3,
+    "hint": ["ヒーロー", "家族", "能力"],
+    "quote": "任せて"
+  },
+  {
+    "id": 118,
+    "name": "ミスター・インクレディブル",
+    "englishName": "Mr Incredible",
+    "movieId": 106,
+    "description": "力持ちのヒーロー。",
+    "difficulty": 1,
+    "hint": ["ヒーロー", "力", "家族"],
+    "quote": "行くぞ"
+  },
+  {
+    "id": 119,
+    "name": "ジャック・ジャック",
+    "englishName": "Jack Jack",
+    "movieId": 106,
+    "description": "能力を持つ赤ちゃん。",
+    "difficulty": 3,
+    "hint": ["赤ちゃん", "能力", "家族"],
+    "quote": "ババ"
+  },
+  {
+    "id": 120,
+    "name": "フォーキー",
+    "englishName": "Forky",
+    "movieId": 117,
+    "description": "フォークのおもちゃ。",
+    "difficulty": 2,
+    "hint": ["フォーク", "おもちゃ", "手作り"],
+    "quote": "ゴミ"
+  },
+  {
+    "id": 121,
+    "name": "ジョー",
+    "englishName": "Joe Gardner",
+    "movieId": 118,
+    "description": "ジャズピアニスト。",
+    "difficulty": 4,
+    "hint": ["ジャズ", "ピアノ", "魂"],
+    "quote": "人生は素晴らしい"
+  },
+  {
+    "id": 122,
+    "name": "22",
+    "englishName": "Twenty Two",
+    "movieId": 118,
+    "description": "魂の世界の存在。",
+    "difficulty": 4,
+    "hint": ["魂", "数字", "皮肉"],
+    "quote": "興味ない"
+  },
+  {
+    "id": 123,
+    "name": "ルカ",
+    "englishName": "Luca",
+    "movieId": 119,
+    "description": "海のモンスターの少年。",
+    "difficulty": 3,
+    "hint": ["海", "少年", "自転車"],
+    "quote": "行こう"
+  },
+  {
+    "id": 124,
+    "name": "アルベルト",
+    "englishName": "Alberto",
+    "movieId": 119,
+    "description": "ルカの友達。",
+    "difficulty": 3,
+    "hint": ["少年", "友達", "海"],
+    "quote": "シレンツィオ"
+  },
+  {
+    "id": 125,
+    "name": "ジュリア",
+    "englishName": "Giulia",
+    "movieId": 119,
+    "description": "ルカの友達の少女。",
+    "difficulty": 3,
+    "hint": ["少女", "レース", "イタリア"],
+    "quote": "負けない"
+  },
+  {
+    "id": 126,
+    "name": "メイ",
+    "englishName": "Mei Lee",
+    "movieId": 120,
+    "description": "レッサーパンダになる少女。",
+    "difficulty": 3,
+    "hint": ["レッサーパンダ", "思春期", "家族"],
+    "quote": "どうしよう"
+  },
+  {
+    "id": 127,
+    "name": "ミリアム",
+    "englishName": "Miriam",
+    "movieId": 120,
+    "description": "メイの友達。",
+    "difficulty": 3,
+    "hint": ["友達", "学校", "少女"],
+    "quote": "最高"
+  },
+  {
+    "id": 128,
+    "name": "エンバー",
+    "englishName": "Ember",
+    "movieId": 121,
+    "description": "火の元素の女性。",
+    "difficulty": 3,
+    "hint": ["火", "元素", "都市"],
+    "quote": "熱い"
+  },
+  {
+    "id": 129,
+    "name": "ウェイド",
+    "englishName": "Wade",
+    "movieId": 121,
+    "description": "水の元素。",
+    "difficulty": 3,
+    "hint": ["水", "元素", "優しい"],
+    "quote": "泣ける"
+  },
+  {
+    "id": 130,
+    "name": "ダッシュ",
+    "englishName": "Dash",
+    "movieId": 106,
+    "description": "超スピードの少年。",
+    "difficulty": 3,
+    "hint": ["スピード", "少年", "ヒーロー"],
+    "quote": "速い"
+  },
+  {
+    "id": 131,
+    "name": "ヴァイオレット",
+    "englishName": "Violet",
+    "movieId": 106,
+    "description": "透明になれる少女。",
+    "difficulty": 3,
+    "hint": ["透明", "シールド", "少女"],
+    "quote": "見えない"
+  },
+  {
+    "id": 132,
+    "name": "エドナ",
+    "englishName": "Edna Mode",
+    "movieId": 106,
+    "description": "ヒーロースーツのデザイナー。",
+    "difficulty": 3,
+    "hint": ["デザイナー", "ヒーロー", "スーツ"],
+    "quote": "マントは禁止"
+  },
+  {
+    "id": 133,
+    "name": "シド",
+    "englishName": "Sid",
+    "movieId": 101,
+    "description": "おもちゃを壊す少年。",
+    "difficulty": 3,
+    "hint": ["少年", "おもちゃ", "破壊"],
+    "quote": "面白い"
+  },
+  {
+    "id": 134,
+    "name": "ボー・ピープ",
+    "englishName": "Bo Peep",
+    "movieId": 117,
+    "description": "羊飼いの人形。",
+    "difficulty": 2,
+    "hint": ["羊", "人形", "ウッディ"],
+    "quote": "さあ行こう"
+  },
+  {
+    "id": 135,
+    "name": "ハンク",
+    "englishName": "Hank",
+    "movieId": 105,
+    "description": "タコ。",
+    "difficulty": 3,
+    "hint": ["タコ", "水族館", "ニモ"],
+    "quote": "隠れる"
+  },
+  {
+    "id": 136,
+    "name": "ギル",
+    "englishName": "Gill",
+    "movieId": 105,
+    "description": "水槽の魚。",
+    "difficulty": 3,
+    "hint": ["魚", "水槽", "脱出"],
+    "quote": "計画だ"
+  },
+  {
+    "id": 137,
+    "name": "ブルース",
+    "englishName": "Bruce",
+    "movieId": 105,
+    "description": "サメ。",
+    "difficulty": 3,
+    "hint": ["サメ", "魚", "友達"],
+    "quote": "魚は友達"
+  },
+  {
+    "id": 138,
+    "name": "ドック",
+    "englishName": "Doc Hudson",
+    "movieId": 107,
+    "description": "元レーサーの車。",
+    "difficulty": 3,
+    "hint": ["車", "医者", "レース"],
+    "quote": "昔は速かった"
+  },
+  {
+    "id": 139,
+    "name": "サリー",
+    "englishName": "Sally",
+    "movieId": 107,
+    "description": "青い車。",
+    "difficulty": 3,
+    "hint": ["車", "町", "恋"],
+    "quote": "大丈夫"
+  },
+  {
+    "id": 140,
+    "name": "フィル",
+    "englishName": "Fillmore",
+    "movieId": 107,
+    "description": "ヒッピーの車。",
+    "difficulty": 3,
+    "hint": ["車", "ヒッピー", "オイル"],
+    "quote": "自然だ"
+  },
+  {
+    "id": 141,
+    "name": "チック",
+    "englishName": "Chick Hicks",
+    "movieId": 107,
+    "description": "ライバルレーサー。",
+    "difficulty": 3,
+    "hint": ["レース", "ライバル", "車"],
+    "quote": "勝つ"
+  },
+  {
+    "id": 142,
+    "name": "ラモーン",
+    "englishName": "Ramone",
+    "movieId": 107,
+    "description": "カスタム車。",
+    "difficulty": 3,
+    "hint": ["車", "塗装", "町"],
+    "quote": "カッコいい"
+  },
+  {
+    "id": 143,
+    "name": "フロー",
+    "englishName": "Flo",
+    "movieId": 107,
+    "description": "カフェの車。",
+    "difficulty": 3,
+    "hint": ["車", "カフェ", "町"],
+    "quote": "いらっしゃい"
+  },
+  {
+    "id": 144,
+    "name": "グイド",
+    "englishName": "Guido",
+    "movieId": 107,
+    "description": "小さな整備車。",
+    "difficulty": 3,
+    "hint": ["整備", "小さい", "車"],
+    "quote": "ピットストップ"
+  },
+  {
+    "id": 145,
+    "name": "ルイジ",
+    "englishName": "Luigi",
+    "movieId": 107,
+    "description": "タイヤ屋の車。",
+    "difficulty": 4,
+    "hint": ["タイヤ", "車", "店"],
+    "quote": "タイヤ"
+  },
+  {
+    "id": 146,
+    "name": "キング",
+    "englishName": "The King",
+    "movieId": 107,
+    "description": "伝説のレーサー。",
+    "difficulty": 3,
+    "hint": ["レース", "車", "王"],
+    "quote": "いいレース"
+  },
+  {
+    "id": 147,
+    "name": "ロズ",
+    "englishName": "Roz",
+    "movieId": 104,
+    "description": "事務員モンスター。",
+    "difficulty": 3,
+    "hint": ["モンスター", "事務", "書類"],
+    "quote": "見てるわよ"
+  },
+  {
+    "id": 148,
+    "name": "ランドール",
+    "englishName": "Randall",
+    "movieId": 104,
+    "description": "透明になるモンスター。",
+    "difficulty": 3,
+    "hint": ["透明", "モンスター", "悪役"],
+    "quote": "計画だ"
+  },
+  {
+    "id": 149,
+    "name": "セリア",
+    "englishName": "Celia",
+    "movieId": 104,
+    "description": "マイクの恋人。",
+    "difficulty": 3,
+    "hint": ["モンスター", "恋人", "蛇髪"],
+    "quote": "マイキー"
+  },
+  {
+    "id": 150,
+    "name": "ヘイヘイ",
+    "englishName": "Heihei",
+    "movieId": 33,
+    "description": "モアナのニワトリ。",
+    "difficulty": 3,
+    "hint": ["ニワトリ", "海", "ボケ"],
+    "quote": "コケー"
+  },
+  {
+    "id": 151,
+    "name": "アブー",
+    "englishName": "Abu",
+    "movieId": 19,
+    "description": "アラジンの相棒のサル。",
+    "difficulty": 3,
+    "hint": ["サル", "相棒", "ランプ"],
+    "quote": "キーキー"
+  },
+  {
+    "id": 152,
+    "name": "ラジャー",
+    "englishName": "Rajah",
+    "movieId": 19,
+    "description": "ジャスミンのペットのトラ。",
+    "difficulty": 3,
+    "hint": ["トラ", "王女", "宮殿"],
+    "quote": "ガオー"
+  },
+  {
+    "id": 153,
+    "name": "イアーゴ",
+    "englishName": "Iago",
+    "movieId": 19,
+    "description": "ジャファーの相棒のオウム。",
+    "difficulty": 3,
+    "hint": ["オウム", "悪役", "相棒"],
+    "quote": "バカだね"
+  },
+  {
+    "id": 154,
+    "name": "スヴェン",
+    "englishName": "Sven",
+    "movieId": 30,
+    "description": "クリストフのトナカイ。",
+    "difficulty": 3,
+    "hint": ["トナカイ", "相棒", "雪"],
+    "quote": "フン"
+  },
+  {
+    "id": 155,
+    "name": "ハンス王子",
+    "englishName": "Prince Hans",
+    "movieId": 30,
+    "description": "アレンデールを狙う王子。",
+    "difficulty": 3,
+    "hint": ["王子", "裏切り", "悪役"],
+    "quote": "王国は僕のものだ"
+  },
+  {
+    "id": 156,
+    "name": "グランパ・クラウス",
+    "englishName": "Grand Pabbie",
+    "movieId": 30,
+    "description": "トロールの長老。",
+    "difficulty": 3,
+    "hint": ["トロール", "魔法", "長老"],
+    "quote": "愛が答えだ"
+  },
+  {
+    "id": 157,
+    "name": "ボルト",
+    "englishName": "Bolt",
+    "movieId": 0,
+    "description": "スーパーパワーを信じる犬。",
+    "difficulty": 3,
+    "hint": ["犬", "テレビ", "ヒーロー"],
+    "quote": "僕はヒーローだ"
+  },
+  {
+    "id": 158,
+    "name": "ペニー",
+    "englishName": "Penny",
+    "movieId": 0,
+    "description": "ボルトの飼い主。",
+    "difficulty": 3,
+    "hint": ["少女", "犬", "テレビ"],
+    "quote": "ボルト"
+  },
+  {
+    "id": 159,
+    "name": "ミスター・スミー",
+    "englishName": "Mr Smee",
+    "movieId": 8,
+    "description": "フック船長の部下。",
+    "difficulty": 3,
+    "hint": ["海賊", "フック船長", "部下"],
+    "quote": "船長"
+  },
+  {
+    "id": 160,
+    "name": "フック船長",
+    "englishName": "Captain Hook",
+    "movieId": 8,
+    "description": "ピーターパンの宿敵。",
+    "difficulty": 1,
+    "hint": ["海賊", "フック", "ワニ"],
+    "quote": "ピーターパン"
+  },
+  {
+    "id": 161,
+    "name": "クロコダイル",
+    "englishName": "Tick Tock Croc",
+    "movieId": 8,
+    "description": "フック船長を追うワニ。",
+    "difficulty": 3,
+    "hint": ["ワニ", "時計", "海賊"],
+    "quote": "カチカチ"
+  },
+  {
+    "id": 162,
+    "name": "ジミニー・クリケット",
+    "englishName": "Jiminy Cricket",
+    "movieId": 2,
+    "description": "ピノキオの良心。",
+    "difficulty": 2,
+    "hint": ["コオロギ", "帽子", "案内役"],
+    "quote": "良心に従え"
+  },
+  {
+    "id": 163,
+    "name": "ブルーフェアリー",
+    "englishName": "Blue Fairy",
+    "movieId": 2,
+    "description": "ピノキオに命を与える妖精。",
+    "difficulty": 3,
+    "hint": ["妖精", "魔法", "ピノキオ"],
+    "quote": "願いを聞こう"
+  },
+  {
+    "id": 164,
+    "name": "フィガロ",
+    "englishName": "Figaro",
+    "movieId": 2,
+    "description": "ゼペットの猫。",
+    "difficulty": 3,
+    "hint": ["猫", "ピノキオ", "ペット"],
+    "quote": "ニャー"
+  },
+  {
+    "id": 165,
+    "name": "フラワー",
+    "englishName": "Flower",
+    "movieId": 5,
+    "description": "恥ずかしがり屋のスカンク。",
+    "difficulty": 3,
+    "hint": ["スカンク", "森", "友達"],
+    "quote": "えへへ"
+  },
+  {
+    "id": 166,
+    "name": "ファリーン",
+    "englishName": "Faline",
+    "movieId": 5,
+    "description": "バンビの恋人。",
+    "difficulty": 3,
+    "hint": ["鹿", "恋人", "森"],
+    "quote": "こんにちは"
+  },
+  {
+    "id": 167,
+    "name": "マリー",
+    "englishName": "Marie",
+    "movieId": 14,
+    "description": "おしゃれな子猫。",
+    "difficulty": 2,
+    "hint": ["猫", "パリ", "白"],
+    "quote": "レディよ"
+  },
+  {
+    "id": 168,
+    "name": "トゥルーズ",
+    "englishName": "Toulouse",
+    "movieId": 14,
+    "description": "やんちゃな子猫。",
+    "difficulty": 3,
+    "hint": ["猫", "兄弟", "パリ"],
+    "quote": "やろう"
+  },
+  {
+    "id": 169,
+    "name": "ベルリオーズ",
+    "englishName": "Berlioz",
+    "movieId": 14,
+    "description": "ピアノが得意な子猫。",
+    "difficulty": 3,
+    "hint": ["猫", "音楽", "兄弟"],
+    "quote": "ポロン"
+  },
+  {
+    "id": 170,
+    "name": "トーマス・オマリー",
+    "englishName": "Thomas O'Malley",
+    "movieId": 14,
+    "description": "野良猫。",
+    "difficulty": 3,
+    "hint": ["猫", "野良", "パリ"],
+    "quote": "俺は猫だ"
+  },
+  {
+    "id": 171,
+    "name": "ロビン・フッド",
+    "englishName": "Robin Hood",
+    "movieId": 15,
+    "description": "貧しい人を助ける英雄。",
+    "difficulty": 3,
+    "hint": ["弓", "森", "英雄"],
+    "quote": "奪って返す"
+  },
+  {
+    "id": 172,
+    "name": "リトル・ジョン",
+    "englishName": "Little John",
+    "movieId": 15,
+    "description": "ロビンの親友。",
+    "difficulty": 3,
+    "hint": ["クマ", "友達", "森"],
+    "quote": "任せろ"
+  },
+  {
+    "id": 173,
+    "name": "プリンス・ジョン",
+    "englishName": "Prince John",
+    "movieId": 15,
+    "description": "強欲な王子。",
+    "difficulty": 3,
+    "hint": ["王子", "悪役", "税"],
+    "quote": "税だ"
+  },
+  {
+    "id": 174,
+    "name": "アーチャー",
+    "englishName": "Archimedes",
+    "movieId": 12,
+    "description": "マーリンのフクロウ。",
+    "difficulty": 3,
+    "hint": ["フクロウ", "魔法", "助手"],
+    "quote": "やれやれ"
+  },
+  {
+    "id": 175,
+    "name": "マーリン",
+    "englishName": "Merlin",
+    "movieId": 12,
+    "description": "偉大な魔法使い。",
+    "difficulty": 2,
+    "hint": ["魔法", "老人", "剣"],
+    "quote": "学べ"
+  },
+  {
+    "id": 176,
+    "name": "アーサー",
+    "englishName": "Arthur",
+    "movieId": 12,
+    "description": "未来の王。",
+    "difficulty": 3,
+    "hint": ["剣", "石", "王"],
+    "quote": "抜けた"
+  },
+  {
+    "id": 177,
+    "name": "ブーの母",
+    "englishName": "Boo's Mom",
+    "movieId": 104,
+    "description": "ブーの母親。",
+    "difficulty": 4,
+    "hint": ["母", "少女", "モンスター"],
+    "quote": "ブー"
+  },
+  {
+    "id": 178,
+    "name": "チャーリー",
+    "englishName": "Charlie",
+    "movieId": 102,
+    "description": "アリの仲間。",
+    "difficulty": 4,
+    "hint": ["アリ", "昆虫", "仲間"],
+    "quote": "働こう"
+  },
+  {
+    "id": 179,
+    "name": "フリック",
+    "englishName": "Flik",
+    "movieId": 102,
+    "description": "発明好きのアリ。",
+    "difficulty": 3,
+    "hint": ["アリ", "発明", "昆虫"],
+    "quote": "できる"
+  },
+  {
+    "id": 180,
+    "name": "ホッパー",
+    "englishName": "Hopper",
+    "movieId": 102,
+    "description": "バッタの悪役。",
+    "difficulty": 4,
+    "hint": ["バッタ", "悪役", "昆虫"],
+    "quote": "働け"
+  },
+  {
+    "id": 181,
+    "name": "アッタ姫",
+    "englishName": "Princess Atta",
+    "movieId": 102,
+    "description": "アリの王女。",
+    "difficulty": 3,
+    "hint": ["アリ", "王女", "女王"],
+    "quote": "頑張って"
+  },
+  {
+    "id": 182,
+    "name": "ウォルト",
+    "englishName": "Walt Disney",
+    "movieId": 0,
+    "description": "ディズニーの創設者。",
+    "difficulty": 5,
+    "hint": ["創設者", "アニメ", "ディズニー"],
+    "quote": "夢は叶う"
+  },
+  {
+    "id": 183,
+    "name": "ピクサーボール",
+    "englishName": "Luxo Ball",
+    "movieId": 0,
+    "description": "ピクサーの象徴。",
+    "difficulty": 5,
+    "hint": ["ボール", "ピクサー", "星"],
+    "quote": "ポン"
+  },
+  {
+    "id": 184,
+    "name": "ルクソーJr",
+    "englishName": "Luxo Jr",
+    "movieId": 0,
+    "description": "ピクサーのランプ。",
+    "difficulty": 4,
+    "hint": ["ランプ", "ピクサー", "短編"],
+    "quote": "ピョン"
+  },
+  {
+    "id": 185,
+    "name": "ウォルトの兄ロイ",
+    "englishName": "Roy Disney",
+    "movieId": 0,
+    "description": "ウォルトの兄。",
+    "difficulty": 5,
+    "hint": ["兄", "会社", "ディズニー"],
+    "quote": "成功しよう"
+  },
+  {
+    "id": 186,
+    "name": "アラジンの母",
+    "englishName": "Aladdin Mother",
+    "movieId": 0,
+    "description": "アラジンの母。",
+    "difficulty": 5,
+    "hint": ["母", "貧しい", "家族"],
+    "quote": "頑張りなさい"
+  },
+  {
+    "id": 187,
+    "name": "ドク",
+    "englishName": "Doc",
+    "movieId": 1,
+    "description": "小人のリーダー。",
+    "difficulty": 4,
+    "hint": ["小人", "メガネ", "森"],
+    "quote": "行こう"
+  },
+  {
+    "id": 188,
+    "name": "グランピー",
+    "englishName": "Grumpy",
+    "movieId": 1,
+    "description": "怒りっぽい小人。",
+    "difficulty": 4,
+    "hint": ["小人", "怒る", "森"],
+    "quote": "フン"
+  },
+  {
+    "id": 189,
+    "name": "ハッピー",
+    "englishName": "Happy",
+    "movieId": 1,
+    "description": "陽気な小人。",
+    "difficulty": 4,
+    "hint": ["小人", "笑顔", "森"],
+    "quote": "やあ"
+  },
+  {
+    "id": 190,
+    "name": "スリーピー",
+    "englishName": "Sleepy",
+    "movieId": 1,
+    "description": "眠そうな小人。",
+    "difficulty": 4,
+    "hint": ["小人", "眠い", "森"],
+    "quote": "ふわぁ"
+  },
+  {
+    "id": 191,
+    "name": "バッシュフル",
+    "englishName": "Bashful",
+    "movieId": 1,
+    "description": "恥ずかしがり屋の小人。",
+    "difficulty": 4,
+    "hint": ["小人", "恥ずかしい", "森"],
+    "quote": "えへ"
+  },
+  {
+    "id": 192,
+    "name": "スニージー",
+    "englishName": "Sneezy",
+    "movieId": 1,
+    "description": "くしゃみする小人。",
+    "difficulty": 4,
+    "hint": ["小人", "くしゃみ", "森"],
+    "quote": "ハックション"
+  },
+  {
+    "id": 193,
+    "name": "ドーピー",
+    "englishName": "Dopey",
+    "movieId": 1,
+    "description": "無口な小人。",
+    "difficulty": 4,
+    "hint": ["小人", "帽子", "森"],
+    "quote": "…"
+  },
+  {
+    "id": 194,
+    "name": "パスカル",
+    "englishName": "Pascal",
+    "movieId": 28,
+    "description": "ラプンツェルのペット。",
+    "difficulty": 2,
+    "hint": ["カメレオン", "緑", "塔"],
+    "quote": "キュ"
+  },
+  {
+    "id": 195,
+    "name": "マキシマス",
+    "englishName": "Maximus",
+    "movieId": 28,
+    "description": "王国の馬。",
+    "difficulty": 2,
+    "hint": ["馬", "兵士", "ラプンツェル"],
+    "quote": "ヒヒーン"
+  },
+  {
+    "id": 196,
+    "name": "シンドローム",
+    "englishName": "Syndrome",
+    "movieId": 106,
+    "description": "インクレディブルの敵。",
+    "difficulty": 3,
+    "hint": ["悪役", "ヒーロー", "科学"],
+    "quote": "今は私の時代だ"
+  },
+  {
+    "id": 197,
+    "name": "エブリン",
+    "englishName": "Evelyn Deavor",
+    "movieId": 116,
+    "description": "インクレディブル2の敵。",
+    "difficulty": 3,
+    "hint": ["悪役", "スクリーン", "ハッキング"],
+    "quote": "真実を見せる"
+  },
+  {
+    "id": 198,
+    "name": "シェフスキナー",
+    "englishName": "Skinner",
+    "movieId": 108,
+    "description": "レストランのシェフ。",
+    "difficulty": 5,
+    "hint": ["料理", "レストラン", "敵"],
+    "quote": "追い出せ"
+  },
+  {
+    "id": 199,
+    "name": "アントン",
+    "englishName": "Anton Ego",
+    "movieId": 108,
+    "description": "料理評論家。",
+    "difficulty": 5,
+    "hint": ["評論家", "料理", "パリ"],
+    "quote": "批評する"
+  },
+  {
+    "id": 200,
+    "name": "グストー",
+    "englishName": "Gusteau",
+    "movieId": 108,
+    "description": "伝説のシェフ。",
+    "difficulty": 4,
+    "hint": ["料理", "シェフ", "言葉"],
+    "quote": "誰でも料理できる"
+  }
+]
