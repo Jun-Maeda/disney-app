@@ -73,7 +73,7 @@ const resetDifficulty = () => {
             variant="outlined"
             class="mb-3 font-weight-bold"
           >
-            設定中: {{ difficultyLabel }}
+            {{ difficultyLabel }}
           </v-chip>
 
           <div class="d-flex align-center justify-center">
@@ -99,7 +99,7 @@ const resetDifficulty = () => {
             ></v-btn>
           </div>
           <p class="text-caption text-white opacity-70 mt-1">
-            星をクリックして難易度を選択（もう一度押すと解除）
+            星をクリックして難易度を選択
           </p>
         </div>
 
@@ -118,11 +118,9 @@ const resetDifficulty = () => {
         <v-expand-transition>
           <div v-if="character" class="mt-12 text-white">
             <v-chip
-              color="secondary"
+              color="purple-lighten-4"
               variant="flat"
               class="mb-5 text-primary font-weight-bold"
-              label
-              size="large"
             >
               <v-icon start>mdi-castle</v-icon>
               {{ movieTitle }}

@@ -31,7 +31,7 @@
       <v-btn
         variant="text"
         to="/movies"
-        prepend-icon="mdi-library-movie"
+        prepend-icon="mdi-movie-open"
         class="text-secondary"
       >
         Movies
