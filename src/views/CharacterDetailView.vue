@@ -112,7 +112,7 @@ const movie = computed(() =>
             color="primary"
             variant="elevated"
             to="/movies"
-            prepend-icon="mdi-library-movie"
+            prepend-icon="mdi-movie-open"
           >
             他の作品を探す
           </v-btn>

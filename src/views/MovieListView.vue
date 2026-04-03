@@ -33,7 +33,7 @@ import moviesData from "../data/movies.json";
           "
           class="d-flex align-center justify-center"
         >
-          <v-icon size="64" color="secondary">mdi-castle</v-icon>
+          <v-icon size="64" color="secondary">mdi-video-vintage</v-icon>
         </v-sheet>
 
         <v-card-item>
